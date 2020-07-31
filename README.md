@@ -3,6 +3,8 @@ This login Form is ready to use and all you need to do is change link to your da
 
 Perfect for you project 
 
+You can change your database link via Properties>Settings>Database (Chane till your own link)
+
 TODO:
 Change Link to your databse in Properties settings
 Encrypt Properties settings if you want
